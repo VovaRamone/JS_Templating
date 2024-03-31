@@ -1,0 +1,44 @@
+[
+    {
+        "img": "img/offer1.svg",
+        "name": "ELLERY X M'O CAPSULE",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": "$52.00"
+    },
+    {
+        "img": "img/offer2.png",
+        "name": "ELLERY X M'O CAPSULE",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": "$52.00"
+    },
+    {
+        "img": "img/offer3.png",
+        "name": "ELLERY X M'O CAPSULE",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": "$52.00"
+    },
+    {
+        "img": "img/offer4.png",
+        "name": "ELLERY X M'O CAPSULE",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": "$52.00"
+    },
+    {
+        "img": "img/offer5.png",
+        "name": "ELLERY X M'O CAPSULE",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": "$52.00"
+    },
+    {
+        "img": "img/offer6.png",
+        "name": "ELLERY X M'O CAPSULE",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": "$52.00"
+    },
+    {
+        "img": "img/offer7.png",
+        "name": "ROMERO STYLE",
+        "description": "Vova Ramone exclusively uses 100% preshrunk cotton in all of our T-Shirt designs, and we ONLY source from suppliers who are eco-friendly and sweatshop free.",
+        "price": "$666.00"
+    }
+]
